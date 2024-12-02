@@ -1,0 +1,18 @@
+.challenge-list__container {
+  min-width: 210px;
+  font-weight: 600;
+  padding: 20px 0 20px 5px;
+  height: calc(100vh - 135px);
+  background-color: #c0b0f8;
+}
+
+.challenge-list__item {
+  padding: 5px;
+  font-size: 18px;
+  border-bottom: 1px solid #af90fd;
+}
+
+.challenge-list__item-link {
+  text-decoration: none;
+  color: #ffffff;
+}
